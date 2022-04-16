@@ -1,0 +1,39 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "subscriptions_6252fc2bf19ff9003b070001_displayName": {
+            "value": null
+        },
+        "subscriptions_6252fc2cf19ff9003b070002_displayName": {
+            "value": null
+        },
+        "users_1_lastName": {
+            "value": null
+        },
+        "sites_STC_Tutorial_APIManagment_name": {
+            "value": null
+        },
+        "service_STC_APIManagment_name": {
+            "value": null
+        },
+        "components_STC_Tutorial_APIManagment_name": {
+            "value": null
+        },
+        "storageAccounts_stctutorialapimanag88d1_name": {
+            "value": null
+        },
+        "serverfarms_ASP_STCTutorialAPIManagment_9994_name": {
+            "value": null
+        },
+        "smartdetectoralertrules_failure_anomalies___stc_tutorial_apimanagment_name": {
+            "value": null
+        },
+        "actiongroups_application_insights_smart_detection_externalid": {
+            "value": null
+        },
+        "workspaces_DefaultWorkspace_84517613_6a83_4a5b_9b4c_8ca11f38bf0b_NEU_externalid": {
+            "value": null
+        }
+    }
+}
